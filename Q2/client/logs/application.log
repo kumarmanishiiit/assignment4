@@ -1,0 +1,858 @@
+504  [main] WARN  org.example.KnnClient - Usage: java -jar MyServer.jar <port> <port>
+1246 [grpc-default-executor-0] INFO  org.example.GrpcClient - Responding with: k_data_point {
+  distance: 0.006985472
+  dataPoint {
+    x_cord: 0.21144801
+    y_cord: 0.32749736
+  }
+}
+k_data_point {
+  distance: 0.031225575
+  dataPoint {
+    x_cord: 0.20633371
+    y_cord: 0.36426985
+  }
+}
+k_data_point {
+  distance: 0.0341733
+  dataPoint {
+    x_cord: 0.18188009
+    y_cord: 0.34566727
+  }
+}
+k_data_point {
+  distance: 0.039567214
+  dataPoint {
+    x_cord: 0.25179905
+    y_cord: 0.345696
+  }
+}
+k_data_point {
+  distance: 0.056073625
+  dataPoint {
+    x_cord: 0.18656702
+    y_cord: 0.28509516
+  }
+}
+k_data_point {
+  distance: 0.06356392
+  dataPoint {
+    x_cord: 0.24534911
+    y_cord: 0.3892956
+  }
+}
+k_data_point {
+  distance: 0.06442891
+  dataPoint {
+    x_cord: 0.25942343
+    y_cord: 0.3796924
+  }
+}
+k_data_point {
+  distance: 0.066187054
+  dataPoint {
+    x_cord: 0.15167488
+    y_cord: 0.31172207
+  }
+}
+k_data_point {
+  distance: 0.07018074
+  dataPoint {
+    x_cord: 0.26924324
+    y_cord: 0.37728417
+  }
+}
+k_data_point {
+  distance: 0.071421824
+  dataPoint {
+    x_cord: 0.16893506
+    y_cord: 0.27859035
+  }
+}
+k_data_point {
+  distance: 0.07481328
+  dataPoint {
+    x_cord: 0.17167929
+    y_cord: 0.27230734
+  }
+}
+k_data_point {
+  distance: 0.075594015
+  dataPoint {
+    x_cord: 0.2837759
+    y_cord: 0.3630823
+  }
+}
+k_data_point {
+  distance: 0.07777441
+  dataPoint {
+    x_cord: 0.28869373
+    y_cord: 0.35567272
+  }
+}
+k_data_point {
+  distance: 0.079390265
+  dataPoint {
+    x_cord: 0.29321077
+    y_cord: 0.32866454
+  }
+}
+k_data_point {
+  distance: 0.0845806
+  dataPoint {
+    x_cord: 0.29214466
+    y_cord: 0.36636186
+  }
+}
+k_data_point {
+  distance: 0.09414483
+  dataPoint {
+    x_cord: 0.22793517
+    y_cord: 0.42710778
+  }
+}
+k_data_point {
+  distance: 0.09420403
+  dataPoint {
+    x_cord: 0.119865365
+    y_cord: 0.33761516
+  }
+}
+k_data_point {
+  distance: 0.09530479
+  dataPoint {
+    x_cord: 0.29444888
+    y_cord: 0.38509774
+  }
+}
+k_data_point {
+  distance: 0.097382255
+  dataPoint {
+    x_cord: 0.31098232
+    y_cord: 0.32518333
+  }
+}
+k_data_point {
+  distance: 0.10163044
+  dataPoint {
+    x_cord: 0.15643704
+    y_cord: 0.2502429
+  }
+}
+k_data_point {
+  distance: 0.103554554
+  dataPoint {
+    x_cord: 0.26520237
+    y_cord: 0.24398965
+  }
+}
+k_data_point {
+  distance: 0.1037748
+  dataPoint {
+    x_cord: 0.14866273
+    y_cord: 0.41462412
+  }
+}
+k_data_point {
+  distance: 0.10718905
+  dataPoint {
+    x_cord: 0.12748866
+    y_cord: 0.39728728
+  }
+}
+k_data_point {
+  distance: 0.10786493
+  dataPoint {
+    x_cord: 0.17320187
+    y_cord: 0.43385166
+  }
+}
+k_data_point {
+  distance: 0.118913345
+  dataPoint {
+    x_cord: 0.22460483
+    y_cord: 0.45243952
+  }
+}
+k_data_point {
+  distance: 0.1203063
+  dataPoint {
+    x_cord: 0.1120389
+    y_cord: 0.3978556
+  }
+}
+k_data_point {
+  distance: 0.12495966
+  dataPoint {
+    x_cord: 0.09367477
+    y_cord: 0.3677158
+  }
+}
+k_data_point {
+  distance: 0.1259515
+  dataPoint {
+    x_cord: 0.3390298
+    y_cord: 0.34920958
+  }
+}
+k_data_point {
+  distance: 0.12808904
+  dataPoint {
+    x_cord: 0.18452102
+    y_cord: 0.20934932
+  }
+}
+k_data_point {
+  distance: 0.13297836
+  dataPoint {
+    x_cord: 0.346346
+    y_cord: 0.3469532
+  }
+}
+k_data_point {
+  distance: 0.13563801
+  dataPoint {
+    x_cord: 0.33349916
+    y_cord: 0.39816868
+  }
+}
+k_data_point {
+  distance: 0.14279412
+  dataPoint {
+    x_cord: 0.32367924
+    y_cord: 0.42543644
+  }
+}
+k_data_point {
+  distance: 0.1435859
+  dataPoint {
+    x_cord: 0.20513964
+    y_cord: 0.19068772
+  }
+}
+k_data_point {
+  distance: 0.1435995
+  dataPoint {
+    x_cord: 0.07118865
+    y_cord: 0.31897563
+  }
+}
+k_data_point {
+  distance: 0.14619632
+  dataPoint {
+    x_cord: 0.099441394
+    y_cord: 0.24317218
+  }
+}
+k_data_point {
+  distance: 0.15099831
+  dataPoint {
+    x_cord: 0.35949114
+    y_cord: 0.29359186
+  }
+}
+k_data_point {
+  distance: 0.15399426
+  dataPoint {
+    x_cord: 0.18182497
+    y_cord: 0.1834045
+  }
+}
+k_data_point {
+  distance: 0.15580304
+  dataPoint {
+    x_cord: 0.10717201
+    y_cord: 0.44741237
+  }
+}
+k_data_point {
+  distance: 0.15744752
+  dataPoint {
+    x_cord: 0.120635875
+    y_cord: 0.46077877
+  }
+}
+k_data_point {
+  distance: 0.15876655
+  dataPoint {
+    x_cord: 0.15436271
+    y_cord: 0.4811401
+  }
+}
+k_data_point {
+  distance: 0.15905285
+  dataPoint {
+    x_cord: 0.27738118
+    y_cord: 0.18812115
+  }
+}
+k_data_point {
+  distance: 0.15924287
+  dataPoint {
+    x_cord: 0.054761637
+    y_cord: 0.33519724
+  }
+}
+k_data_point {
+  distance: 0.16302933
+  dataPoint {
+    x_cord: 0.15524025
+    y_cord: 0.18192813
+  }
+}
+k_data_point {
+  distance: 0.16324249
+  dataPoint {
+    x_cord: 0.06107796
+    y_cord: 0.27687764
+  }
+}
+k_data_point {
+  distance: 0.16440614
+  dataPoint {
+    x_cord: 0.3742708
+    y_cord: 0.37064216
+  }
+}
+k_data_point {
+  distance: 0.16899525
+  dataPoint {
+    x_cord: 0.04522729
+    y_cord: 0.32533032
+  }
+}
+k_data_point {
+  distance: 0.17012078
+  dataPoint {
+    x_cord: 0.14489487
+    y_cord: 0.48945275
+  }
+}
+k_data_point {
+  distance: 0.17070407
+  dataPoint {
+    x_cord: 0.28203458
+    y_cord: 0.17743954
+  }
+}
+k_data_point {
+  distance: 0.1707928
+  dataPoint {
+    x_cord: 0.20162731
+    y_cord: 0.16365594
+  }
+}
+k_data_point {
+  distance: 0.17140797
+  dataPoint {
+    x_cord: 0.3733093
+    y_cord: 0.27074468
+  }
+}
+
+1299 [grpc-default-executor-0] INFO  org.example.GrpcClient - KNN computation has been completed!!!
+2096 [grpc-default-executor-1] INFO  org.example.GrpcClient - Responding with: k_data_point {
+  distance: 0.024515899
+  dataPoint {
+    x_cord: 0.2266564
+    y_cord: 0.3549963
+  }
+}
+k_data_point {
+  distance: 0.024552375
+  dataPoint {
+    x_cord: 0.19186732
+    y_cord: 0.32337156
+  }
+}
+k_data_point {
+  distance: 0.040852066
+  dataPoint {
+    x_cord: 0.18447626
+    y_cord: 0.36223543
+  }
+}
+k_data_point {
+  distance: 0.045771502
+  dataPoint {
+    x_cord: 0.23754413
+    y_cord: 0.3732518
+  }
+}
+k_data_point {
+  distance: 0.05563414
+  dataPoint {
+    x_cord: 0.26311257
+    y_cord: 0.36013642
+  }
+}
+k_data_point {
+  distance: 0.059669025
+  dataPoint {
+    x_cord: 0.2319471
+    y_cord: 0.390906
+  }
+}
+k_data_point {
+  distance: 0.06462749
+  dataPoint {
+    x_cord: 0.15004866
+    y_cord: 0.32467592
+  }
+}
+k_data_point {
+  distance: 0.075738974
+  dataPoint {
+    x_cord: 0.2848729
+    y_cord: 0.30728996
+  }
+}
+k_data_point {
+  distance: 0.07619806
+  dataPoint {
+    x_cord: 0.16352387
+    y_cord: 0.39108154
+  }
+}
+k_data_point {
+  distance: 0.08601019
+  dataPoint {
+    x_cord: 0.12809575
+    y_cord: 0.3382675
+  }
+}
+k_data_point {
+  distance: 0.10237938
+  dataPoint {
+    x_cord: 0.1796831
+    y_cord: 0.23754333
+  }
+}
+k_data_point {
+  distance: 0.105839595
+  dataPoint {
+    x_cord: 0.25929675
+    y_cord: 0.4296568
+  }
+}
+k_data_point {
+  distance: 0.115251794
+  dataPoint {
+    x_cord: 0.32458583
+    y_cord: 0.36646155
+  }
+}
+k_data_point {
+  distance: 0.122119285
+  dataPoint {
+    x_cord: 0.11833619
+    y_cord: 0.4099049
+  }
+}
+k_data_point {
+  distance: 0.12276522
+  dataPoint {
+    x_cord: 0.22807977
+    y_cord: 0.21204484
+  }
+}
+k_data_point {
+  distance: 0.12722467
+  dataPoint {
+    x_cord: 0.0878665
+    y_cord: 0.35062695
+  }
+}
+k_data_point {
+  distance: 0.12981999
+  dataPoint {
+    x_cord: 0.29630813
+    y_cord: 0.23360775
+  }
+}
+k_data_point {
+  distance: 0.13318992
+  dataPoint {
+    x_cord: 0.0991781
+    y_cord: 0.40149432
+  }
+}
+k_data_point {
+  distance: 0.13583837
+  dataPoint {
+    x_cord: 0.2576829
+    y_cord: 0.46262297
+  }
+}
+k_data_point {
+  distance: 0.13703544
+  dataPoint {
+    x_cord: 0.345935
+    y_cord: 0.37103876
+  }
+}
+k_data_point {
+  distance: 0.13848892
+  dataPoint {
+    x_cord: 0.16007164
+    y_cord: 0.46155748
+  }
+}
+k_data_point {
+  distance: 0.1442031
+  dataPoint {
+    x_cord: 0.3532514
+    y_cord: 0.29653558
+  }
+}
+k_data_point {
+  distance: 0.14722651
+  dataPoint {
+    x_cord: 0.08698676
+    y_cord: 0.40845323
+  }
+}
+k_data_point {
+  distance: 0.14770421
+  dataPoint {
+    x_cord: 0.22048621
+    y_cord: 0.18643826
+  }
+}
+k_data_point {
+  distance: 0.14819306
+  dataPoint {
+    x_cord: 0.35462216
+    y_cord: 0.287239
+  }
+}
+k_data_point {
+  distance: 0.14981651
+  dataPoint {
+    x_cord: 0.065356344
+    y_cord: 0.31529033
+  }
+}
+k_data_point {
+  distance: 0.14989577
+  dataPoint {
+    x_cord: 0.08091928
+    y_cord: 0.40298018
+  }
+}
+k_data_point {
+  distance: 0.15180203
+  dataPoint {
+    x_cord: 0.32819274
+    y_cord: 0.43401936
+  }
+}
+k_data_point {
+  distance: 0.15485463
+  dataPoint {
+    x_cord: 0.31036195
+    y_cord: 0.45522016
+  }
+}
+k_data_point {
+  distance: 0.15544926
+  dataPoint {
+    x_cord: 0.058550928
+    y_cord: 0.33423832
+  }
+}
+k_data_point {
+  distance: 0.15816963
+  dataPoint {
+    x_cord: 0.20052473
+    y_cord: 0.49159455
+  }
+}
+k_data_point {
+  distance: 0.15835182
+  dataPoint {
+    x_cord: 0.23066981
+    y_cord: 0.17652804
+  }
+}
+k_data_point {
+  distance: 0.15946515
+  dataPoint {
+    x_cord: 0.249668
+    y_cord: 0.48942497
+  }
+}
+k_data_point {
+  distance: 0.16491301
+  dataPoint {
+    x_cord: 0.12150138
+    y_cord: 0.19747049
+  }
+}
+k_data_point {
+  distance: 0.16524833
+  dataPoint {
+    x_cord: 0.09667645
+    y_cord: 0.45037094
+  }
+}
+k_data_point {
+  distance: 0.16527674
+  dataPoint {
+    x_cord: 0.05705472
+    y_cord: 0.28218707
+  }
+}
+k_data_point {
+  distance: 0.16906182
+  dataPoint {
+    x_cord: 0.08860043
+    y_cord: 0.22061196
+  }
+}
+k_data_point {
+  distance: 0.16991895
+  dataPoint {
+    x_cord: 0.3534214
+    y_cord: 0.23687056
+  }
+}
+k_data_point {
+  distance: 0.1728155
+  dataPoint {
+    x_cord: 0.3758883
+    y_cord: 0.39447626
+  }
+}
+k_data_point {
+  distance: 0.17288038
+  dataPoint {
+    x_cord: 0.16704191
+    y_cord: 0.16761921
+  }
+}
+k_data_point {
+  distance: 0.17305532
+  dataPoint {
+    x_cord: 0.17483863
+    y_cord: 0.5025661
+  }
+}
+k_data_point {
+  distance: 0.17338604
+  dataPoint {
+    x_cord: 0.36775935
+    y_cord: 0.41412976
+  }
+}
+k_data_point {
+  distance: 0.17501706
+  dataPoint {
+    x_cord: 0.081046216
+    y_cord: 0.22018321
+  }
+}
+k_data_point {
+  distance: 0.1751986
+  dataPoint {
+    x_cord: 0.37268853
+    y_cord: 0.2597538
+  }
+}
+k_data_point {
+  distance: 0.17756824
+  dataPoint {
+    x_cord: 0.24710323
+    y_cord: 0.15954468
+  }
+}
+k_data_point {
+  distance: 0.17838995
+  dataPoint {
+    x_cord: 0.38019562
+    y_cord: 0.39882278
+  }
+}
+k_data_point {
+  distance: 0.17972478
+  dataPoint {
+    x_cord: 0.14249554
+    y_cord: 0.49888816
+  }
+}
+k_data_point {
+  distance: 0.18049927
+  dataPoint {
+    x_cord: 0.03616038
+    y_cord: 0.30312836
+  }
+}
+k_data_point {
+  distance: 0.18610717
+  dataPoint {
+    x_cord: 0.37216702
+    y_cord: 0.43207687
+  }
+}
+k_data_point {
+  distance: 0.18849733
+  dataPoint {
+    x_cord: 0.025642065
+    y_cord: 0.34124783
+  }
+}
+
+2107 [grpc-default-executor-1] INFO  org.example.GrpcClient - KNN computation has been completed!!!
+2729 [main] INFO  org.example.KnnClient - Latency: is: 2065 ms
+2732 [main] INFO  org.example.KnnClient - 50 Nearest neighbour for 0.214, 0.334 are: 
+2734 [main] INFO  org.example.KnnClient - x_cord: 0.2576829
+y_cord: 0.46262297
+
+2735 [main] INFO  org.example.KnnClient - x_cord: 0.33349916
+y_cord: 0.39816868
+
+2735 [main] INFO  org.example.KnnClient - x_cord: 0.0991781
+y_cord: 0.40149432
+
+2735 [main] INFO  org.example.KnnClient - x_cord: 0.346346
+y_cord: 0.3469532
+
+2735 [main] INFO  org.example.KnnClient - x_cord: 0.29630813
+y_cord: 0.23360775
+
+2735 [main] INFO  org.example.KnnClient - x_cord: 0.18452102
+y_cord: 0.20934932
+
+2736 [main] INFO  org.example.KnnClient - x_cord: 0.0878665
+y_cord: 0.35062695
+
+2736 [main] INFO  org.example.KnnClient - x_cord: 0.3390298
+y_cord: 0.34920958
+
+2736 [main] INFO  org.example.KnnClient - x_cord: 0.09367477
+y_cord: 0.3677158
+
+2736 [main] INFO  org.example.KnnClient - x_cord: 0.22807977
+y_cord: 0.21204484
+
+2736 [main] INFO  org.example.KnnClient - x_cord: 0.11833619
+y_cord: 0.4099049
+
+2736 [main] INFO  org.example.KnnClient - x_cord: 0.1120389
+y_cord: 0.3978556
+
+2736 [main] INFO  org.example.KnnClient - x_cord: 0.22460483
+y_cord: 0.45243952
+
+2736 [main] INFO  org.example.KnnClient - x_cord: 0.32458583
+y_cord: 0.36646155
+
+2736 [main] INFO  org.example.KnnClient - x_cord: 0.17320187
+y_cord: 0.43385166
+
+2737 [main] INFO  org.example.KnnClient - x_cord: 0.12748866
+y_cord: 0.39728728
+
+2737 [main] INFO  org.example.KnnClient - x_cord: 0.25929675
+y_cord: 0.4296568
+
+2737 [main] INFO  org.example.KnnClient - x_cord: 0.14866273
+y_cord: 0.41462412
+
+2737 [main] INFO  org.example.KnnClient - x_cord: 0.26520237
+y_cord: 0.24398965
+
+2737 [main] INFO  org.example.KnnClient - x_cord: 0.1796831
+y_cord: 0.23754333
+
+2738 [main] INFO  org.example.KnnClient - x_cord: 0.15643704
+y_cord: 0.2502429
+
+2738 [main] INFO  org.example.KnnClient - x_cord: 0.31098232
+y_cord: 0.32518333
+
+2738 [main] INFO  org.example.KnnClient - x_cord: 0.29444888
+y_cord: 0.38509774
+
+2738 [main] INFO  org.example.KnnClient - x_cord: 0.119865365
+y_cord: 0.33761516
+
+2738 [main] INFO  org.example.KnnClient - x_cord: 0.22793517
+y_cord: 0.42710778
+
+2738 [main] INFO  org.example.KnnClient - x_cord: 0.12809575
+y_cord: 0.3382675
+
+2738 [main] INFO  org.example.KnnClient - x_cord: 0.29214466
+y_cord: 0.36636186
+
+2738 [main] INFO  org.example.KnnClient - x_cord: 0.29321077
+y_cord: 0.32866454
+
+2738 [main] INFO  org.example.KnnClient - x_cord: 0.28869373
+y_cord: 0.35567272
+
+2739 [main] INFO  org.example.KnnClient - x_cord: 0.16352387
+y_cord: 0.39108154
+
+2739 [main] INFO  org.example.KnnClient - x_cord: 0.2848729
+y_cord: 0.30728996
+
+2739 [main] INFO  org.example.KnnClient - x_cord: 0.2837759
+y_cord: 0.3630823
+
+2739 [main] INFO  org.example.KnnClient - x_cord: 0.17167929
+y_cord: 0.27230734
+
+2739 [main] INFO  org.example.KnnClient - x_cord: 0.16893506
+y_cord: 0.27859035
+
+2739 [main] INFO  org.example.KnnClient - x_cord: 0.26924324
+y_cord: 0.37728417
+
+2739 [main] INFO  org.example.KnnClient - x_cord: 0.15167488
+y_cord: 0.31172207
+
+2739 [main] INFO  org.example.KnnClient - x_cord: 0.15004866
+y_cord: 0.32467592
+
+2739 [main] INFO  org.example.KnnClient - x_cord: 0.25942343
+y_cord: 0.3796924
+
+2740 [main] INFO  org.example.KnnClient - x_cord: 0.24534911
+y_cord: 0.3892956
+
+2740 [main] INFO  org.example.KnnClient - x_cord: 0.2319471
+y_cord: 0.390906
+
+2740 [main] INFO  org.example.KnnClient - x_cord: 0.18656702
+y_cord: 0.28509516
+
+2742 [main] INFO  org.example.KnnClient - x_cord: 0.26311257
+y_cord: 0.36013642
+
+2743 [main] INFO  org.example.KnnClient - x_cord: 0.23754413
+y_cord: 0.3732518
+
+2745 [main] INFO  org.example.KnnClient - x_cord: 0.18447626
+y_cord: 0.36223543
+
+2747 [main] INFO  org.example.KnnClient - x_cord: 0.25179905
+y_cord: 0.345696
+
+2747 [main] INFO  org.example.KnnClient - x_cord: 0.18188009
+y_cord: 0.34566727
+
+2747 [main] INFO  org.example.KnnClient - x_cord: 0.20633371
+y_cord: 0.36426985
+
+2748 [main] INFO  org.example.KnnClient - x_cord: 0.19186732
+y_cord: 0.32337156
+
+2748 [main] INFO  org.example.KnnClient - x_cord: 0.2266564
+y_cord: 0.3549963
+
+2748 [main] INFO  org.example.KnnClient - x_cord: 0.21144801
+y_cord: 0.32749736
+
+477  [main] WARN  org.example.KnnClient - Usage: java -jar MyServer.jar <port> <port>
